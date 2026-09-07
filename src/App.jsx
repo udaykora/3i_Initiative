@@ -495,7 +495,7 @@ function MemberOrganizations() {
     {
       name: 'TN AutoSkills',
       tag: 'Apex skill centre for automotive',
-      body: 'Tamil Nadu’s apex skill development centre dedicated to the automotive sector, established under the Government of Tamil Nadu to bridge the skill gap in India’s rapidly growing automotive industry. A state-of-the-art facility creating a steady pipeline of trained professionals for OEMs, Tier-1 suppliers, and the broader automotive ecosystem.',
+      body: 'Tamil Nadu’s apex skill development centre dedicated HHELLO to the automotive sector, established under the Government of Tamil Nadu to bridge the skill gap in India’s rapidly growing automotive industry. A state-of-the-art facility creating a steady pipeline of trained professionals for OEMs, Tier-1 suppliers, and the broader automotive ecosystem.',
       image: "/Collaborators_Images/TN_Auto_skills.png",
     },
     {
